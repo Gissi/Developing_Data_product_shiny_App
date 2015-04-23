@@ -7,6 +7,9 @@ output: html_document
 
 This is an R Markdown document for simple explanation of the shiny app created for the Developing data products course in the data science specialization track on coursera. 
 
+The basic idea of the app is that you can change the sliders on the left to select the numbers of observations wanted to plot the 
+reggression on. Belowe that you can then view the data that the reggression is based on. 
+
 initally I created an app focusing on english premier league fantasy football data. The app worked fine when you run it in you computer with runApp("url",display.mode="showcase") but for some reasons that I was unable to find out it does not work when deployed to shinyapps.io. 
 
 Therefore I created similar app but used built in data that seems to work fine.I hyperlinked the other app in this app and my slideshow will talk a litle about it. But for the purpose of this project I made this app to demnonstraigth knowledge of basic shiny things. 
