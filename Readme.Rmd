@@ -8,7 +8,7 @@ output: html_document
 This is an R Markdown document for simple explanation of the shiny app created for the Developing data products course in the data science specialization track on coursera. 
 
 The basic idea of the app is that you can change the upper slider on the left to select the numbers of observations wanted to plot the 
-reggression on along with the lower slider to change the numbers of observations view in the data table below the graph. 
+reggression on along with the lower slider to change the numbers of observations viewed in the data table below the graph. 
 
 initally I created an app focusing on english premier league fantasy football data. The app worked fine when I ran it on my computer with runApp("url",display.mode="showcase") but for some reasons it did not work when I deployed it to shinyapps.io I was unable to find out why it does not work when deployed to shinyapps.io. 
 
